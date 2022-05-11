@@ -8,6 +8,8 @@
 
 - Importar los assets ya sea arrastrandolos a la carpeta del nuevo proyecto o importandolos desde la interfaz de Unity
 
+- Ejecutar en Files>>build and run
+
 ## Compatibilidad
 
 Para utilizar el programa se requiere de lo siguiente para evitar problemas de compatibilidad:
