@@ -1,4 +1,6 @@
 # SnakeGame3DwithSpeechRecognition
+## Descargar los files
+Desde este link se pueden descargar los archivos desde googl drive [assets](https://drive.google.com/drive/folders/19FmjbenaDtsVSDjsuC_2jnyHhNE64Bkd?usp=sharing)
 
 ## Ejecución de programa
 
